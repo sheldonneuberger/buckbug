@@ -1,0 +1,3 @@
+[buildfile]
+  includes = //BUCK_DEFS
+

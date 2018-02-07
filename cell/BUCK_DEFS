@@ -1,0 +1,7 @@
+def foo(name, srcs):
+	cxx_library(
+		name = name,
+		srcs = srcs,
+		visibility = ['PUBLIC']
+	)
+
